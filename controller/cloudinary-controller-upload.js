@@ -17,8 +17,8 @@ exports.uploadImage = async (req, res) => {
       if (result) {
         console.log(result);
         // {
-        //     asset_id: 'a08bdb0de715ec5955271054c4d91985',
-        //     public_id: 'f3434ee0-2e87-11ec-9687-df6e47b0a481',
+        //     asset_id: 'a2222222222222222222222222222',
+        //     public_id: '22222222222222222222222222222222222',
         //     version: 1634392197,
         //     version_id: 'c377190accf8a4886ca21333f2b7137f',
         //     signature: '9a7bb7e22d3549f54b8b23123b1eda1bb388c5a8',
@@ -30,12 +30,12 @@ exports.uploadImage = async (req, res) => {
         //     tags: [],
         //     bytes: 147418,
         //     type: 'upload',
-        //     etag: '781da2ac28107c1b508aef3f5c7188f7',
+        //     etag: '72222222222222222222',
         //     placeholder: false,
-        //     url: 'http://res.cloudinary.com/ekky01/image/upload/v1634392197/f3434ee0-2e87-11ec-9687-df6e47b0a481.png',
-        //     secure_url: 'https://res.cloudinary.com/ekky01/image/upload/v1634392197/f3434ee0-2e87-11ec-9687-df6e47b0a481.png',
+        //     url: 'http://res.cloudinary.com/ekky01/image/upload/v1634392197/f3434ee0-2e87-11ec-9687-df6e47b0wa481.png',
+        //     secure_url: 'https://res.cloudinary.com/ekky01/image/upload/v1634392197/f3434ee0-2e87-11ec-9687-df6w47b0a481.png',
         //     original_filename: 'file',
-        //     api_key: '146441793128381'
+        //     api_key: '12222222222'
         //   }
       }
     }).end(req.files.images[0].buffer);
