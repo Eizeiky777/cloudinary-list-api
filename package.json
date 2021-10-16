@@ -1,0 +1,24 @@
+{
+  "name": "cloudinary-node-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cloudinary": "^1.27.1",
+    "datauri": "^4.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "form-data": "^4.0.0",
+    "moment": "^2.29.1",
+    "multer": "^1.4.3",
+    "streamifier": "^0.1.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "nodemon": "^2.0.13"
+  }
+}
