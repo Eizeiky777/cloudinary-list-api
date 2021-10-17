@@ -86,8 +86,8 @@ const samplePhoto = {
   type: 'upload',
   etag: 'a5b20f17f28ef6357cde00d6eb47548b',
   placeholder: false,
-  url: 'http://res.cloudinary.com/ekky01/image/upload/v1634451393/c5aab010-2f11-11ec-947b-db2ec7555292.jpg',
-  secure_url: 'https://res.cloudinary.com/ekky01/image/upload/v1634451393/c5aab010-2f11-11ec-947b-db2ec7555292.jpg',
+  url: 'http://f/image/upload/v1634451393/c5aab010-2f11-11ec-947b-db2ec7555292.jpg',
+  secure_url: 'https://f/image/upload/v1634451393/c5aab010-2f11-11ec-947b-db2ec7555292.jpg',
   info: {
     detection: {
       adv_face: {
@@ -334,8 +334,8 @@ const samplePhotoTest = {
   type: 'upload',
   etag: '8e1b6d11f207a1055a0d80350d735c1c',
   placeholder: false,
-  url: 'http://res.cloudinary.com/ekky01/image/upload/v1634453170/e9059a80-2f15-11ec-8dce-7bf7f2e85dc1.jpg',
-  secure_url: 'https://res.cloudinary.com/ekky01/image/upload/v1634453170/e9059a80-2f15-11ec-8dce-7bf7f2e85dc1.jpg',
+  url: 'http://f/image/upload/v1634453170/e9059a80-2f15-11ec-8dce-7bf7f2e85dc1.jpg',
+  secure_url: 'https://f/image/upload/v1634453170/e9059a80-2f15-11ec-8dce-7bf7f2e85dc1.jpg',
   info: {
     detection: {
       adv_face: {
@@ -577,8 +577,8 @@ const sampleTzuyu = {
   type: 'upload',
   etag: '1dab85fff1b0ca053e2a61cacf08fc06',
   placeholder: false,
-  url: 'http://res.cloudinary.com/ekky01/image/upload/v1634453611/ef708f00-2f16-11ec-9b78-39ad813d580d.jpg',
-  secure_url: 'https://res.cloudinary.com/ekky01/image/upload/v1634453611/ef708f00-2f16-11ec-9b78-39ad813d580d.jpg',
+  url: 'http://f/image/upload/v1634453611/ef708f00-2f16-11ec-9b78-39ad813d580d.jpg',
+  secure_url: 'https://f/image/upload/v1634453611/ef708f00-2f16-11ec-9b78-39ad813d580d.jpg',
   info: {
     detection: {
       adv_face: {
